@@ -1,4 +1,5 @@
 ## Violations
-baseline            |  rain effect
-:-------------------------:|:-------------------------:
-![](baseline.png)  |  ![](rain.png)
+
+| baseline  | rain effect |
+| ------------- | ------------- |
+| baseline.png  | rain.png  |
