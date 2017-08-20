@@ -40,5 +40,5 @@ title: deepTest
 
 | baseline          | scale(2.5x)          |
 | -------------     | -------------  | 
-| <img src="./epoch_violations/1479425653724391465_arrow.jpg" width="180"> | <img src="./epoch_violations/1479425653724391465_scale_2.5_arrow.jpg" width="180">  
+| <img src="./epoch_violations/1479425653724391465_arrow.jpg" width="170"> | <img src="./epoch_violations/1479425653724391465_scale_2.5_arrow.jpg" width="170">  
 
