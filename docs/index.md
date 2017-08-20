@@ -38,7 +38,7 @@ title: deepTest
 | -------------     | -------------  | -------- | ---------- |
 | <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_scale_2.5_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_scale_2.0_arrow.jpg" width="300">  |
 
-| baseline          | scale(2.5x)          | 
-| -------------     | -------------  |
-| <img src="./epoch_violations/1479425653724391465_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653724391465_scale_2.5_arrow.jpg" width="300">  | 
+| baseline          | scale(2.5x)          | | |
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653724391465_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653724391465_scale_2.5_arrow.jpg" width="300">  | | |
 
