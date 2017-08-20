@@ -30,15 +30,24 @@ title: deepTest
 | -------------     | -------------  | -------- | ---------- |
 | <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_rotation_6_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652974063124_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652974063124_rotation_6_arrow.jpg" width="300">  |
 
-| baseline          | scale(2.5x)          | baseline | scale(2.5x)|
+| baseline          | scale(2.5x)          | baseline | brightness(50)|
 | -------------     | -------------  | -------- | ---------- |
-| <img src="./epoch_violations/1479425660724907914_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425660724907914_scale_2.5_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653973475184_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653973475184_scale_2.5_arrow.jpg" width="300">  |
+| <img src="./epoch_violations/1479425660724907914_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425660724907914_scale_2.5_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653224199015_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653224199015_brightness_50_arrow.jpg" width="300">  |
 
-| baseline          | scale(2.5x)          | baseline | scale(2.0x)|
+| baseline          | scale(2.5x)          | baseline | brightness(70)|
 | -------------     | -------------  | -------- | ---------- |
-| <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_scale_2.5_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_scale_2.0_arrow.jpg" width="300">  |
+| <img src="./epoch_violations/1479425653973475184_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653973475184_scale_2.5_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_brightness_70_arrow.jpg" width="300">  |
 
-| baseline          | scale(2.5x)          |
-| -------------     | -------------  | 
-| <img src="./epoch_violations/1479425653724391465_arrow.jpg" width="174"> | <img src="./epoch_violations/1479425653724391465_scale_2.5_arrow.jpg" width="174">  
+| baseline          | scale(2.5x)          | baseline | brightness(50)|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_scale_2.5_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_brightness_50_arrow.jpg" width="300">  | 
+
+| baseline          | scale(2.0x)          | baseline | brightness(50)|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_scale_2.0_arrow.jpg" width="300">   | <img src="./epoch_violations/1479425652974063124_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652974063124_brightness_50_arrow.jpg" width="300">  |
+
+| baseline          | scale(2.5x)          | baseline | brightness(40)|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653724391465_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653724391465_scale_2.5_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653724391465_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653724391465_brightness_40_arrow.jpg" width="300">  |
+
 
