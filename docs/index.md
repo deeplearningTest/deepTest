@@ -71,4 +71,8 @@ title: deepTest
 | -------------     | -------------  | -------- | ---------- |
 | <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_contrast_1.6_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652474554894_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652474554894_averaging6_arrow.jpg" width="300">  |
 
+| baseline          | shear(0.1)          | baseline | shear(0.1) |
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425534453586743_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534453586743_shear_0.1_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425660724907914_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425660724907914_shear_0.1_arrow.jpg" width="300">  |
+
 
