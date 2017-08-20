@@ -22,3 +22,11 @@ title: deepTest
 | -------------     | -------------  | -------- | ---------- |
 | <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_translation_40_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425534203274638_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534203274638_translation_60_arrow.jpg" width="300">  |
 
+| baseline          | rotation(6 degree)          | baseline | rotation(6 degree)|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425652724209127_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652724209127_rotation_6_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652474554894_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652474554894_rotation_6_arrow.jpg" width="300">  |
+
+| baseline          | rotation(6 degree)          | baseline | rotation(6 degree)|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_rotation_6_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652974063124_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652974063124_rotation_6_arrow.jpg" width="300">  |
+
