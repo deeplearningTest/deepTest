@@ -76,8 +76,6 @@ title: deepTest
 | <img src="./epoch_violations/1479425534453586743_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534453586743_shear_0.1_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425660724907914_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425660724907914_shear_0.1_arrow.jpg" width="300">  |
 
 
-## Violations from guided search --- epoch model
-
 | baseline          | generated      | transformations |
 | -------------     | -------------  | -------- |
 | <img src="./epoch_violations/guided_1479425443687382945_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425443687382945.jpg_178_arrow.jpg" width="300">  | Scale:1.5;<br>Averaging blur:4x4;<br>Guassian blur:7x7;<br> Translation:128,128; |
