@@ -78,20 +78,17 @@ title: deepTest
 
 | baseline          | generated      | transformations |
 | -------------     | -------------  | -------- |
-| <img src="./epoch_violations/guided_1479425443687382945_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425443687382945.jpg_178_arrow.jpg" width="300">  | Scale:1.5;<br>Averaging blur:4x4;<br>Guassian blur:7x7;<br> Translation:128,128; |
+| <img src="./epoch_violations/guided_1479425443687382945_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425443687382945.jpg_178_arrow.jpg" width="300">  | Averaging blur:4x4;<br> Translation:128,128; |
 
 
 | baseline          | generated      | transformations |
 | -------------     | -------------  | -------- |
-| <img src="./epoch_violations/guided_1479425478693111335_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425478693111335.jpg_205_arrow.jpg" width="300">  | Brightness:-54; <br> Scale:0.6; <br> Scale:0.7; <br> Contrast:0.4;|
+| <img src="./epoch_violations/guided_1479425478693111335_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425478693111335.jpg_205_arrow.jpg" width="300">  | Scale:0.6; <br> Contrast:0.4;|
 
 | baseline          | generated      | transformations |
 | -------------     | -------------  | -------- |
-| <img src="./epoch_violations/guided_1479425478693111335_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425478693111335.jpg_217_arrow.jpg" width="300">  | Brightness:-54; <br> Scale:0.6; <br> Scale:0.8; <br> Brightness:75;|
+| <img src="./epoch_violations/guided_1479425478693111335_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425478693111335.jpg_217_arrow.jpg" width="300">  | Scale:0.6; <br> Brightness:75;|
 
-| baseline          | generated      | transformations |
-| -------------     | -------------  | -------- |
-| <img src="./epoch_violations/guided_1479425508699129652_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425508699129652.jpg_219_arrow.jpg" width="300">  | 	Translation:334,334; <br> Shear:0.4; |
 
 
 
