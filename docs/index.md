@@ -93,3 +93,24 @@ title: deepTest
 
 
 
+| baseline          | generated      | transformations |
+| -------------     | -------------  | -------- |
+| <img src="./epoch_violations/guided_1479425443687382945_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425443687382945.jpg_185_arrow.jpg" width="300">  | Brightness:99;<br> Scale:1.7; <br> Scale:1.7; <br> Brightness:46;|
+
+| baseline          | generated      | transformations |
+| -------------     | -------------  | -------- |
+| <img src="./epoch_violations/guided_1479425451188093502_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425451188093502.jpg_190_arrow.jpg" width="300">  | Scale:1.3; <br> Translation:74;|
+
+| baseline          | generated      | transformations |
+| -------------     | -------------  | -------- |
+| <img src="./epoch_violations/guided_1479425451188093502_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425451188093502.jpg_191_arrow.jpg" width="300">  | Scale:1.3; <br> Translation:74; <br> Gaussian blur:3x3; <br> Brightness:85;|
+
+| baseline          | generated      | transformations |
+| -------------     | -------------  | -------- |
+| <img src="./epoch_violations/guided_1479425508699129652_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425508699129652.jpg_213_arrow.jpg" width="300">  | Brightness:100; <br> Gaussian blur:5x5; <br> Scale:1.3; <br> Brightness:-27; <br> Median blur:3; <br> Brightness:-86;|
+
+| baseline          | generated      | transformations |
+| -------------     | -------------  | -------- |
+| <img src="./epoch_violations/guided_1479425638721344700_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425638721344700.jpg_225_arrow.jpg" width="300">  | Scale:0.5; <br> Averaging blur:5x5;|
+
+
