@@ -128,9 +128,15 @@ title: deepTest
 
 ## False positive --- chauffeur model
 
+| original          | translation(10,10)          | original | translation(10,10)|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/fp_1479425573760218620_arrow.jpg" width="300"> | <img src="./epoch_violations/fp_1479425573760218620_translation_10_arrow.jpg" width="300">  | <img src="./epoch_violations/fp_1479425573810366349_arrow.jpg" width="300"> | <img src="./epoch_violations/fp_1479425573810366349_translation_10_arrow.jpg" width="300">  |
 
 ## False positive --- rambo model
 
+| original          | shear(0.3)          | original | shear(0.3)|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/fp_1479425509699265098_arrow.jpg" width="300"> | <img src="./epoch_violations/fp_1479425509699265098_shear_0.3_arrow.jpg" width="300">  | <img src="./epoch_violations/fp_1479425611716393653_arrow.jpg" width="300"> | <img src="./epoch_violations/fp_1479425611716393653_shear_0.3_arrow.jpg" width="300">  |
 
 
 
