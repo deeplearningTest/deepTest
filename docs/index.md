@@ -125,6 +125,9 @@ title: deepTest
 
 ## False positive --- epoch model
 
+| original          | translation(50,50)          | original | translation(50,50)|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/fp_1479425509949807178_arrow.jpg" width="300"> | <img src="./epoch_violations/fp_1479425509949807178_translation_50_arrow.jpg" width="300">  | <img src="./epoch_violations/fp_1479425599465165059_arrow.jpg" width="300"> | <img src="./epoch_violations/fp_1479425599465165059_translation_50_arrow.jpg" width="300">  |
 
 ## False positive --- chauffeur model
 
