@@ -394,3 +394,163 @@ title: deepTest
 | <img src="./epoch_violations/1479425653724391465_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653724391465_contrast_1.4_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425533953287497_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425533953287497_brightness_50_arrow.jpg" width="300"> |
 
 
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425488544582948_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425488544582948_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425488644373500_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425488644373500_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425488994540598_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425488994540598_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425542204810669_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425542204810669_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425542304721177_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425542304721177_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425605115864378_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425605115864378_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425606266684107_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425606266684107_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425606615914904_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425606615914904_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425607116590192_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425607116590192_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425607166148141_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425607166148141_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425652024035662_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652024035662_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652073952730_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652073952730_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425652123983182_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652123983182_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652174067448_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652174067448_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425652223851206_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652223851206_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652273878734_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652273878734_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425652323968126_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652323968126_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652373974604_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652373974604_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425652424079149_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652424079149_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652474554894_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652474554894_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425652523986305_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652523986305_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652574153112_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652574153112_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425652624184325_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652624184325_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652674209590_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652674209590_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425652724209127_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652724209127_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652774078963_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652774078963_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425652824045668_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652824045668_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652874562756_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652874562756_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425652924254795_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652924254795_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425652974063124_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425652974063124_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653024692716_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653024692716_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653074236921_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653074236921_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653124943552_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653124943552_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653174168798_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653174168798_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653224199015_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653224199015_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653274187858_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653274187858_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653324248270_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653324248270_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653374133826_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653374133826_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653424110461_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653424110461_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653474263607_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653474263607_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653524292767_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653524292767_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653574226272_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653574226272_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653624943061_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653624943061_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653674348507_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653674348507_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653724391465_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653724391465_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653774274101_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653774274101_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653824203304_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653824203304_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653874971340_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653874971340_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653924964974_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653924964974_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653973475184_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653973475184_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425654023468339_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654023468339_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425654073432678_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654073432678_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425654123459508_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654123459508_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425654173497698_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654173497698_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425654223570365_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654223570365_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425654273392691_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654273392691_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425654323472058_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654323472058_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425654373428441_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654373428441_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425654423478557_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654423478557_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425654473486487_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654473486487_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425654523850700_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654523850700_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425654573747956_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654573747956_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425654623658533_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654623658533_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425654723546868_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654723546868_fog_arrow.jpg" width="300"> |
+
+

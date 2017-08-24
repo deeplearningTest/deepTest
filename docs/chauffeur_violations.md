@@ -519,3 +519,113 @@ title: deepTest
 | <img src="./chauffeur_violations/1479425573410225191_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425573410225191_contrast_1.8_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425578760030245_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425578760030245_brightness_40_arrow.jpg" width="300"> |
 
 
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425487544586069_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425487544586069_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425487594171655_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425487594171655_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425487644294769_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425487644294769_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425487694272050_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425487694272050_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425487744232612_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425487744232612_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425487794351214_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425487794351214_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425487844203409_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425487844203409_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425487894242789_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425487894242789_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425487944331268_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425487944331268_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425487994249169_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425487994249169_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425488044375871_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488044375871_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425488094513517_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488094513517_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425488144363495_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488144363495_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425488194522932_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488194522932_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425488244177248_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488244177248_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425488294190492_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488294190492_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425488344463413_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488344463413_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425488394166804_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488394166804_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425488444301767_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488444301767_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425488494235228_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488494235228_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425488544582948_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488544582948_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425488594640273_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488594640273_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425488644373500_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488644373500_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425488694449473_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488694449473_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425488744496100_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488744496100_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425488794919110_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488794919110_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425488844445874_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488844445874_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425488894592942_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488894592942_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425488944488527_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488944488527_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425488994540598_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425488994540598_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425489044630045_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489044630045_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425489094638546_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489094638546_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425489144756926_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489144756926_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425489194941386_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489194941386_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425489244752068_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489244752068_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425489294597543_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489294597543_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425489344631737_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489344631737_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425489394648780_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489394648780_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425489444718542_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489444718542_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425489495361171_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489495361171_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425489744721210_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489744721210_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425489795375605_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489795375605_fog_arrow.jpg" width="300"> |
+
+
+| original          | fog          | original | fog|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./chauffeur_violations/1479425489844681471_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489844681471_fog_arrow.jpg" width="300">  | <img src="./chauffeur_violations/1479425489894813556_arrow.jpg" width="300"> | <img src="./chauffeur_violations/1479425489894813556_fog_arrow.jpg" width="300"> |
+
+
