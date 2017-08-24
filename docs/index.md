@@ -76,16 +76,16 @@ title: deepTest
 | <img src="./epoch_violations/1479425534453586743_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534453586743_shear_0.1_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425660724907914_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425660724907914_shear_0.1_arrow.jpg" width="300">  |
 
 
-| original          | generated      | transformations |
+| original          | synthetic      | transformations |
 | -------------     | -------------  | -------- |
 | <img src="./epoch_violations/guided_1479425443687382945_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425443687382945.jpg_178_arrow.jpg" width="300">  | Averaging blur:4x4;<br> Translation:128,128; |
 
 
-| original          | generated      | transformations |
+| original          | synthetic      | transformations |
 | -------------     | -------------  | -------- |
 | <img src="./epoch_violations/guided_1479425478693111335_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425478693111335.jpg_205_arrow.jpg" width="300">  | Scale:0.6; <br> Contrast:0.4;|
 
-| original          | generated      | transformations |
+| original          | synthetic      | transformations |
 | -------------     | -------------  | -------- |
 | <img src="./epoch_violations/guided_1479425478693111335_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425478693111335.jpg_217_arrow.jpg" width="300">  | Scale:0.6; <br> Brightness:75;|
 
@@ -93,23 +93,23 @@ title: deepTest
 
 
 
-| original          | generated      | transformations |
+| original          | synthetic      | transformations |
 | -------------     | -------------  | -------- |
 | <img src="./epoch_violations/guided_1479425443687382945_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425443687382945.jpg_185_arrow.jpg" width="300">  | Brightness:99;<br> Scale:1.7; <br> Scale:1.7; <br> Brightness:46;|
 
-| original          | generated      | transformations |
+| original          | synthetic      | transformations |
 | -------------     | -------------  | -------- |
 | <img src="./epoch_violations/guided_1479425451188093502_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425451188093502.jpg_190_arrow.jpg" width="300">  | Scale:1.3; <br> Translation:74;|
 
-| original          | generated      | transformations |
+| original          | synthetic      | transformations |
 | -------------     | -------------  | -------- |
 | <img src="./epoch_violations/guided_1479425451188093502_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425451188093502.jpg_191_arrow.jpg" width="300">  | Scale:1.3; <br> Translation:74; <br> Gaussian blur:3x3; <br> Brightness:85;|
 
-| original          | generated      | transformations |
+| original          | synthetic      | transformations |
 | -------------     | -------------  | -------- |
 | <img src="./epoch_violations/guided_1479425508699129652_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425508699129652.jpg_213_arrow.jpg" width="300">  | Brightness:100; <br> Gaussian blur:5x5; <br> Scale:1.3; <br> Brightness:-27; <br> Median blur:3; <br> Brightness:-86;|
 
-| original          | generated      | transformations |
+| original          | synthetic      | transformations |
 | -------------     | -------------  | -------- |
 | <img src="./epoch_violations/guided_1479425638721344700_arrow.jpg" width="300"> | <img src="./epoch_violations/guided_1479425638721344700.jpg_225_arrow.jpg" width="300">  | Scale:0.5; <br> Averaging blur:5x5;|
 
