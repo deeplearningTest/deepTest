@@ -554,3 +554,163 @@ title: deepTest
 | <img src="./epoch_violations/1479425654623658533_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654623658533_fog_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425654723546868_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425654723546868_fog_arrow.jpg" width="300"> |
 
 
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425533653308473_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425533653308473_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425533753868055_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425533753868055_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425533803959291_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425533803959291_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425533853279428_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425533853279428_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425533903211622_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425533903211622_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425533953287497_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425533953287497_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425534003540714_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534003540714_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425534053288335_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534053288335_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425534103265964_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534103265964_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425534153475617_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534153475617_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425534203274638_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534203274638_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425534253276840_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534253276840_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425534303317450_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534303317450_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425534353370989_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534353370989_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425534403416633_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534403416633_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425534453586743_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534453586743_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425534504558594_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534504558594_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425534553604112_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534553604112_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425534603675160_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534603675160_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425534653467381_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534653467381_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425534703506448_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534703506448_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425534754030435_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534754030435_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425534803699236_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425534803699236_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425617917071743_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425617917071743_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425617966814899_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425617966814899_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425619817988027_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425619817988027_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425619867511964_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425619867511964_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425619917385539_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425619917385539_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425619967427564_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425619967427564_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425620017353179_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620017353179_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425620067450644_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620067450644_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425620117360444_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620117360444_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425620167511243_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620167511243_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425620217639949_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620217639949_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425620267476700_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620267476700_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425620317777816_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620317777816_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425620368164379_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620368164379_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425620417598702_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620417598702_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425620467499076_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620467499076_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425620517418784_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620517418784_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425620567492149_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620567492149_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425620617389946_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620617389946_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425620668113045_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620668113045_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425620717555819_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620717555819_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425620767484683_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620767484683_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425620817582124_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620817582124_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425620867696040_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620867696040_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425620917482036_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620917482036_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425620967592810_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425620967592810_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425621017650323_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425621017650323_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425621067647892_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425621067647892_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425621117432215_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425621117432215_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653674348507_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653674348507_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653724391465_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653724391465_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425653774274101_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653774274101_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425653824203304_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425653824203304_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425660424847451_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425660424847451_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425660474936960_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425660474936960_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425660524741740_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425660524741740_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425661025011567_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425661025011567_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425661074962678_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425661074962678_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425661124964107_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425661124964107_rain_arrow.jpg" width="300"> |
+
+
+| original          | rain          | original | rain|
+| -------------     | -------------  | -------- | ---------- |
+| <img src="./epoch_violations/1479425661174932063_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425661174932063_rain_arrow.jpg" width="300">  | <img src="./epoch_violations/1479425661225241224_arrow.jpg" width="300"> | <img src="./epoch_violations/1479425661225241224_rain_arrow.jpg" width="300"> |
+
+
